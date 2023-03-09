@@ -15,7 +15,7 @@ java {
 }
 
 intellij {
-    version.set("2022.1.2")
+    version.set("2022.3.2")
     plugins.set(listOf("git4idea"))
 }
 
